@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iscte-es2",
+  "private_key_id": "ce8e4fff7d51919de4d8c7a7573b8165d31f9e42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7rIQd5lIPYVM9\nH0naCysl6p00NfpI2S8ZrtiC6AuDXpdggA6gkgKbBsIs7sZKJMCbTrtpqxcbVlFH\ntK7meV4PdsUcbHAxt5H7yYfAkRfMYcSJwm9ePYId8/B+DfvosEpUf8q/l/Kgksj0\ncJrJ32YK6LvioSzmULPu8fSVLH9wYpvZVeJppwLRlfQCBdgog8tNq/ub27lD4N00\n4ayMtN8ft6y2LHkYFCC+Zs75Tb+KXDWF53xK55Rl2FaCbyzB3nf/79fSv1p/K4+l\n8NHIbp7ad8icIYnof+xLm+F1GK211t4XvXGPzRQyMXytux1opNHi/mozFpwLuZLl\nRX6RP+HbAgMBAAECggEALS6xeAlVREKoKZT40LfToYNEaad9JEC1aDeCBLIc43nI\ndAEghGPioLQV13982ajTfhCMajo4i+pSEzNa0D3z+UEc32Tz9eQ+DyJLvn6v/hKj\noI7hBQ1F4DQ0eASh2zlmC8XgaBQK48GzA7aAbY2NIZ86bKtlBeX0C9jQi4F1BPcv\nAKpt2NmlSUZWlu95blXnILevmiIi7iOsq3e+Uoqb/os/f1ol0Egd8mOi9ZO/DLpc\nYxmlSziIUHTCT5fNar/Um4kc5VWEWRDE/55MZTPEgIt1c5i5oq6PpY9PYagRy0hR\ncp4n1ISVC0GHjVd6GLwvLZGGKAmVyP0UEQH8tygbkQKBgQDgMum3Rk4aHIsfcZbg\ntyivKkQGOopavGARslLRTdCtV8hRx/FahJUMsLNo+x6BPux8zB5z6RKEZC4FZi+C\nhjkdM4yS44MqOnGOLhg0nbSV5vU+llxnHNICoz7Yh9PrC5dQ5mNqAmYMq9lS6MAP\n/cxhjdPRaxq30VLWcnE7o1L0jQKBgQDWS0+72G2Lj1+oUFfbJjZBUPP55MctyNkc\nhQzMmyHfqcS/UmkdbvVjYttjP1VMHFxUqGyCvOxFoXchXs1kKfkFmCW8kkIqIDwA\nGVR57xzqaRPqk81LG8NsAiNCFqbNMH47ytkIUfq3syYcnOudfja1SyC8hBorpE4O\ni9jwUzB6BwKBgDHUXwmzAIzhJzK35lbPnqU/+ZqAzFtaXufQAIQwjV7ZkdZLYCNE\nMHR/mYCNv7vuJlWecG5GsSznryrYCVszReJtoKLNGkv6bV6ydALNwmNGz983QBZS\n24JmkgNCPSGSk/ERI6teGRxb3ZOF05o6SICuKxPygB+20HiFOxGMPVXJAoGAKRJ8\nMMO1k0cijW8At8cmJPSwHlhD+LmDK10w69Jb9rNiO00/Sl3m+GqNJAOShKj25V72\nlURCgMIGxEWYVjdZPEJCEVdzCQHunhI8x7YVs7P6Fj7H3TpwBTaPrW4MAE3oE+u4\nF0knJahXiKpm2mPDdpH0r00eevjd4RnatY0sQGcCgYEA3VMxe+bCQt2J8v5NnxPx\n9f+NrAGZ7CxU8GkQ6T+xOiYrDIaMpJBwQY6HGRMER5rQOW51iaakLfv2oIM51qXd\nnRlKreDpyPIPBWyjBHUfctQgzlkpqOMTsoX2fLeS+WJpyQCJFJxvWOzs521qtvYI\nF4iR0YGla865u8p4xufaGt4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenkins@iscte-es2.iam.gserviceaccount.com",
+  "client_id": "105463684247665667236",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkins%40iscte-es2.iam.gserviceaccount.com"
+}
